@@ -8,34 +8,7 @@ I am a compulsive explorer with an obsessive need to analyse everything. I am av
 - Intuitive as well as Algorithmic understanding of Data Science/ Machine Learning methods, tools and techniques with wide breadth of hands-on knowledge.
 - Ready to work from May 2018 and willing to relocate.
 
-### Markdown
+### Here is my linkedin Profile:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+https://www.linkedin.com/in/patwardhanvarun/
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/varunxpatwardhan/varunxpatwardhan.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
