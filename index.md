@@ -10,5 +10,5 @@ I am a compulsive explorer with an obsessive need to analyse everything. I am av
 
 ### Here is my linkedin Profile:
 
- link: https://www.linkedin.com/in/patwardhanvarun
+ [https://www.linkedin.com/in/patwardhanvarun/] (https://www.linkedin.com/in/patwardhanvarun)
 
