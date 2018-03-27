@@ -9,5 +9,5 @@ I am a compulsive explorer with an obsessive need to analyse everything. I am av
 - Ready to work from May 2018 and willing to relocate.
 
 ### Here is my linkedin Profile:
-https://www.linkedin.com/in/patwardhanvarun
+[[https://www.linkedin.com/in/patwardhanvarun]]
 
